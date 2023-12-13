@@ -5,11 +5,8 @@
 O desafio será criar uma Checkout 100% do 0
 
 - Ao entrar na página deve ser possível selecionar o produto que deseja e adiciona-lo ao carrinho de compras
-
 - No carrinho deve ser possível indicar quantidade e a opçõe de remover o produto.
-
 - Será necessário mostrar os metodos de pagamento sendo ele, cartão (crédito ou débito), pix e boleto
-
 - Após a finalização da compra, devemos mostrar ao cliente uma página demonstrando um mapa, onde se encontra a localização da encomenda e da caso do cliente, com uma estimativa de quantos dias a entrega pode demorar
 
 ### Implementação
